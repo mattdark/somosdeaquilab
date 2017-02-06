@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Minion PRo';
+    src: url('minion.ttf');
+}
+.title {
+    font-size: 50px;
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+}
+
+.story {
+    color: #96C98A;
+}
+
+.community {
+    color: #FFD262;
+}
+
+.project {
+    color: #ED6B5F;
+}
+
+.team {
+    color: #4677BB;
+}
+
+.phrase {
+    font-size: 30px;
+    color: #000;
+    font-family: 'Signika', sans-serif;
+    font-weight: 600;
+}
+
+.phrase-i {
+    font-family: 'Minion Pro';
+    font-weight: 400;
+    font-style: italic;
+}
+
+.text {
+    font-family: 'Noticia Text', serif;
+    font-size: 17px;
+}
